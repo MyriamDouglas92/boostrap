@@ -1,0 +1,126 @@
+
+.nav{
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: none;
+}
+
+body{
+background-image: url(blackandwhite2.jpeg); 
+
+}
+
+.article{
+border: solid 0px;
+background-color:rgba(0, 0, 0, 0.644);
+font-size:90%;
+color:white ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic ;
+font-weight:bolder ;
+text-align: center;
+
+}
+
+h3{
+text-decoration: underline ;
+color: white ;
+}
+
+.article2{
+border: solid 0px;
+background-color:rgba(0, 0, 0, 0.644);
+font-size:90% ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white ;
+font-style: italic;
+font-weight:bolder ;
+text-align:center;
+margin :15% ;
+
+}
+   
+.article3{
+
+border: solid 0px;
+background-color:rgba(0, 0, 0, 0.644);
+font-size:100% ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white ;
+ font-style: italic;
+font-weight:bolder ;
+margin:5% ;
+text-align:center;
+
+
+}
+.article4{
+
+    border: solid 0px;
+    background-color:rgba(0, 0, 0, 0.644);
+    font-size:90%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white ;
+    font-style: italic;
+    font-weight:bolder ;
+    margin:5% ;
+    text-align: center;
+    
+}
+
+.article4bis{
+    
+    border: solid 0px;
+    background-color:rgba(0, 0, 0, 0.644);
+    font-size:90% ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white ;
+     font-style: italic;
+    font-weight:bold;
+    margin:5% ;
+    text-align: center;
+
+}
+.article5{
+
+    border: solid 0px;
+    background-color:rgba(0, 0, 0, 0.644);
+    font-size:90% ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white ;
+     font-style: italic;
+    font-weight:bolder ;
+    margin:5% ;
+    text-align: center;
+    
+
+}
+
+.footer{
+     
+        margin: 25%;
+        padding: 15px;
+        
+        }
+         
+        main{
+        
+        max-width:1280px;   
+        max-height:200%;
+        margin: 30px;
+        height:fit-content;
+        position:absolute;
+        text-align: center;
+        }
+        
+        footer{
+    
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background:rgb(43, 42, 42);
+    margin: 5%;
+    padding:5%;
+
+    
+}
+
+
